@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath "./out/production/JackAnalyzer:./lib/kotlin-stdlib.jar:./lib/kotlin-reflect.jar:./lib/kotlin-test.jar:./lib/kotlin-stdlib-jdk7.jar:./lib/kotlin-stdlib-jdk8.jar" MainKt "$1"

@@ -1,0 +1,1 @@
+/Volumes/MacWorkplace/Coursera/build-a-computer/nand2tetris/tools/TextComparer.sh /Volumes/MacWorkplace/Workplace/Kotlin/Nand2Tetris/JackCompiler/test.xml $1
